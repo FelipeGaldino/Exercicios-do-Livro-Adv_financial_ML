@@ -1,8 +1,7 @@
-# Advances in Financial Machine Learning 
+# Avanços no aprendizado de máquina financeira
 ## Marcos Lopez De Prado
 
-My solutions to the exercises of the book.
-All the code of the src/snippets folder is taken from the book
 
-Python 3.6 and libraries of requirements.txt
-A dokerfile is also provided.
+Soluções para os exercícios do livro. Todo o código da pasta src / snippets é retirado do livro
+
+Python 3.6 e bibliotecas de requirements.txt Um arquivo doker também é fornecido.
